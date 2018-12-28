@@ -1,1 +1,1 @@
-javascript:(function(){document.body.appendChild(document.createElement("script")).src="https://rawgit.com/Binjohn/PSJTCSTC/master/psjtcsusr-jtcseg10Aa.min.js"})();
+javascript:(function(){document.body.appendChild(document.createElement("script")).src="https://cdn.jsdelivr.net/gh/Binjohn/PSJTCSTC/psjtcsusr-jtcseg10Aa.min.js"})();
